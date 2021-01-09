@@ -1,6 +1,6 @@
 {
 	"EMP":{
-	    "data"  :"https://raw.githubusercontent.com/Arsenicus/Files/main/data.json",
+	    "data"  :"https://raw.githubusercontent.com/Arsenicus/Files/main/templates.json",
 	    "images":"https://raw.githubusercontent.com/Arsenicus/Files/main/images/",
 		"color" :"aqua",
 		"type"	:2
